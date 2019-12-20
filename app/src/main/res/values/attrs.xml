@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FontAttr">
+        <attr name="font_name">
+            <enum name="ambleBold" value="1"/>
+            <enum name="ambleLight" value="2"/>
+            <enum name="ambleRegular" value="3"/>
+            <enum name="openSansItalic" value="4"/>
+            <enum name="openSansRegular" value="5"/>
+            <enum name="pacifico" value="6"/>
+        </attr>
+    </declare-styleable>
+</resources>
